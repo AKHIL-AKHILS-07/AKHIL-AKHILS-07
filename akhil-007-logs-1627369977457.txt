@@ -1,0 +1,42 @@
+2021-07-27T07:12:51.810877+00:00 app[worker.1]:     at Function.Module._load (node:internal/modules/cjs/loader:807:14)
+2021-07-27T07:12:51.810877+00:00 app[worker.1]:     at Module.require (node:internal/modules/cjs/loader:991:19)
+2021-07-27T07:12:51.810878+00:00 app[worker.1]:     at require (node:internal/modules/cjs/helpers:92:18)
+2021-07-27T07:12:51.810878+00:00 app[worker.1]:     at /root/WhatsAsenaDuplicated/bot.js:342:17
+2021-07-27T07:12:51.810879+00:00 app[worker.1]:     at Array.forEach (<anonymous>)
+2021-07-27T07:12:51.810879+00:00 app[worker.1]:     at WAConnection.<anonymous> (/root/WhatsAsenaDuplicated/bot.js:340:37)
+2021-07-27T07:12:51.819998+00:00 app[worker.1]: Tue Jul 27 2021 10:12:51 GMT+0300 (GMT+03:00)
+2021-07-27T07:12:51.820103+00:00 app[worker.1]: Program node bot.js exited with code 1
+2021-07-27T07:12:51.820103+00:00 app[worker.1]: 
+2021-07-27T07:12:51.820155+00:00 app[worker.1]: Starting child process with 'node bot.js'
+2021-07-27T07:12:52.955739+00:00 app[worker.1]: Loading TR language...
+2021-07-27T07:12:53.486667+00:00 app[worker.1]: WhatsAsena
+2021-07-27T07:12:53.486683+00:00 app[worker.1]: Version: v1.3.2 Global Stable
+2021-07-27T07:12:53.486683+00:00 app[worker.1]: 
+2021-07-27T07:12:53.486684+00:00 app[worker.1]: ℹ️ Connecting to WhatsApp... Please Wait.
+2021-07-27T07:12:54.356184+00:00 app[worker.1]: ✅ Amalser kayarittund 😎
+2021-07-27T07:12:54.356438+00:00 app[worker.1]: ⬇️ Installing External Plugins...
+2021-07-27T07:12:54.367616+00:00 app[worker.1]: ⬇️  Installing Plugins...
+2021-07-27T07:12:54.592318+00:00 app[worker.1]: /root/WhatsAsenaDuplicated/plugins/anime.js:106
+2021-07-27T07:12:54.592321+00:00 app[worker.1]:     Asena.addCommand({pattern: 'anime', fromMe: false, desc: Lang.AN}, (async (message, match) => {
+2021-07-27T07:12:54.592322+00:00 app[worker.1]:                                                                   ^
+2021-07-27T07:12:54.592323+00:00 app[worker.1]: 
+2021-07-27T07:12:54.592323+00:00 app[worker.1]: TypeError: Cannot read property 'AN' of undefined
+2021-07-27T07:12:54.592323+00:00 app[worker.1]:     at Object.<anonymous> (/root/WhatsAsenaDuplicated/plugins/anime.js:106:67)
+2021-07-27T07:12:54.592324+00:00 app[worker.1]:     at Module._compile (node:internal/modules/cjs/loader:1102:14)
+2021-07-27T07:12:54.592324+00:00 app[worker.1]:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1131:10)
+2021-07-27T07:12:54.592327+00:00 app[worker.1]:     at Module.load (node:internal/modules/cjs/loader:967:32)
+2021-07-27T07:12:54.592327+00:00 app[worker.1]:     at Function.Module._load (node:internal/modules/cjs/loader:807:14)
+2021-07-27T07:12:54.592328+00:00 app[worker.1]:     at Module.require (node:internal/modules/cjs/loader:991:19)
+2021-07-27T07:12:54.592328+00:00 app[worker.1]:     at require (node:internal/modules/cjs/helpers:92:18)
+2021-07-27T07:12:54.592329+00:00 app[worker.1]:     at /root/WhatsAsenaDuplicated/bot.js:342:17
+2021-07-27T07:12:54.592329+00:00 app[worker.1]:     at Array.forEach (<anonymous>)
+2021-07-27T07:12:54.592329+00:00 app[worker.1]:     at WAConnection.<anonymous> (/root/WhatsAsenaDuplicated/bot.js:340:37)
+2021-07-27T07:12:54.656170+00:00 app[worker.1]: Tue Jul 27 2021 10:12:54 GMT+0300 (GMT+03:00)
+2021-07-27T07:12:54.656336+00:00 app[worker.1]: Program node bot.js exited with code 1
+2021-07-27T07:12:54.656337+00:00 app[worker.1]: 
+2021-07-27T07:12:54.656448+00:00 app[worker.1]: Starting child process with 'node bot.js'
+2021-07-27T07:12:56.319623+00:00 app[worker.1]: Loading TR language...
+2021-07-27T07:12:56.778216+00:00 app[worker.1]: WhatsAsena
+2021-07-27T07:12:56.778233+00:00 app[worker.1]: Version: v1.3.2 Global Stable
+2021-07-27T07:12:56.778234+00:00 app[worker.1]: 
+2021-07-27T07:12:56.778235+00:00 app[worker.1]: ℹ️ Connecting to WhatsApp... Please Wait.
